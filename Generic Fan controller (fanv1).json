@@ -1,0 +1,16 @@
+{
+                    "name": "Ceiling Fan",
+                    "type": "fanv1",
+                    "hideSwingMode": true,
+                    "stepSize": 20,
+                    "hideRotationDirection": true,
+                    "data": {
+                        "on": "260030001c1b1b1c1b1c1c1a381b1d35371b1c361c1b371b1c000aeb1c1b1b1c1b1c1b1c361c1c36371b1c361d1a371b1d000d050000000000000000",
+                        "off": "260030001c1b1b1c1b1c1c1a381b1d35371b1c361c1b371b1c000aeb1c1b1b1c1b1c1b1c361c1c36371b1c361d1a371b1d000d050000000000000000",
+                        "fanSpeed20": "26002c001c1b36371c1b371c1b371c1a381b1b1b1c3736000aec1c1b37371a1d361c1c361b1c371c191d1b3737000d05000000000000000000000000",
+                        "fanSpeed40": "26002c001c1b37361c1b371b1c361c1b371b1c371b1b37000aec1c1b37361d1a381a1c361c1b371b1c371b1b38000d05000000000000000000000000",
+                        "fanSpeed60": "26002c001c1a38361b1c371b1c36371c1b371d1a1c1a37000aec1b1c36371c1b371c1b37381a1c361b1c1b1d35000d05000000000000000000000000",
+                        "fanSpeed80": "260030001c1b37371b1c371b1c36371b1c371b1b1c1b1c1b1c000ad01c1b37361c1b381a1c36371c1c361c1b1c1a1c1b1c000d050000000000000000",
+                        "fanSpeed100": "260034001b1c1c1a1c1b1b1c371b1b371d1a1b1c1b1c36371c1b1b000ad11b1b1c1b1c1b1c1b371b1b371c1b1d1a1c1b36371c1b1b000d0500000000"
+                    }
+                }
